@@ -1,0 +1,2 @@
+# DingyDjango
+Django projects
